@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.exe
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.deps.json
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.runtimeconfig.json
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.runtimeconfig.dev.json
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.dll
+D:\VisualStudioProjects\Scheduler\Scheduler\bin\Debug\netcoreapp3.0\Scheduler.pdb
+D:\VisualStudioProjects\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.AssemblyInfo.cs
+D:\VisualStudioProjects\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.dll
+D:\VisualStudioProjects\Scheduler\Scheduler\obj\Debug\netcoreapp3.0\Scheduler.pdb
